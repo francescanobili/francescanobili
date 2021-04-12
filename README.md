@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<meta name="google-site-verification" content="HN1pYM2BJYSCbt4BFJIxiyNbT6WKp7SEyfvMHGKLN3Q" />
